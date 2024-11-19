@@ -26,17 +26,11 @@ Question 3
 What type of data is semi-structured and has some organizational properties but not a rigid schema?
 Online forms   
 Data from OLTP systems
-Emails
-Web logs (answer)
+Emails (ans)
+Web logs 
 
-Online Forms: Semi-structured
-Online forms often store data in formats like JSON or XML, which have an organized structure but not a rigid schema. The fields may vary based on the form design.
+Explanation:
+Emails are semi-structured data because:
 
-Data from OLTP Systems: Structured
-OLTP systems (Online Transaction Processing) store data in relational databases with a fixed schema (e.g., tables with defined rows and columns).
-
-Emails: Semi-structured
-Emails have structured headers (e.g., sender, recipient, timestamp) and unstructured body text, making them semi-structured.
-
-Web Logs: Semi-structured
-Web logs contain organized fields like timestamps, IP addresses, and URLs, but the format is not as rigid, making them semi-structured.
+They have organizational properties like headers (e.g., sender, recipient, timestamp), which are structured.
+The body content is unstructured, lacking a rigid schema, making emails semi-structured.
