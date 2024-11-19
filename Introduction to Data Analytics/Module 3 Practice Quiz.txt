@@ -1,0 +1,42 @@
+Practice Quiz 
+
+Question 1
+What are the requirements in order for data to be reliable? (Select all that apply)  
+Data should be structured
+Data should be easy to collect   
+Data should be free of all errors (ans)
+Data should be relevant (ans)
+
+Explanation:
+Free of all errors: Reliable data must be accurate and error-free to ensure trustworthiness.
+Relevant: The data must be pertinent to the context or purpose for which it is used, ensuring it is meaningful.
+The other options, while useful, do not directly determine reliability:
+
+Structured: While structured data is easier to manage, unstructured or semi-structured data can still be reliable if accurate and relevant.
+Easy to collect: Data collection ease is not a reliability criterion; even complex data can be reliable if properly handled.
+
+Question 2
+What type of data is produced by wearable devices, smart buildings, and medical devices?  
+Observation study data
+Census data
+Sensor data (ans)
+Survey data
+
+Question 3
+What type of data is semi-structured and has some organizational properties but not a rigid schema?
+Online forms   
+Data from OLTP systems
+Emails
+Web logs (answer)
+
+Online Forms: Semi-structured
+Online forms often store data in formats like JSON or XML, which have an organized structure but not a rigid schema. The fields may vary based on the form design.
+
+Data from OLTP Systems: Structured
+OLTP systems (Online Transaction Processing) store data in relational databases with a fixed schema (e.g., tables with defined rows and columns).
+
+Emails: Semi-structured
+Emails have structured headers (e.g., sender, recipient, timestamp) and unstructured body text, making them semi-structured.
+
+Web Logs: Semi-structured
+Web logs contain organized fields like timestamps, IP addresses, and URLs, but the format is not as rigid, making them semi-structured.
