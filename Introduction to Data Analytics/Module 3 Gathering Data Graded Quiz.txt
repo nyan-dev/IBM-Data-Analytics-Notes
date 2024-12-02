@@ -1,0 +1,38 @@
+
+Knowledge Quiz **
+
+Question 1
+What are some of the steps in the process of “Identifying Data”? (Select all that apply) 
+Define the checkpoints 
+Determine the visualization tools that you will use
+Define a plan for collecting data 
+Determine the information you want to collect  (ans)
+
+Question 2
+What type of data refers to information obtained directly from the source?
+Third-party data  
+Secondary data 
+Primary data  (ans)
+Sensor data  
+
+Question 3
+Web scraping is used to extract what type of data? 
+Images, videos, and data from NoSQL databases
+Text, videos, and data from relational databases
+Data from news sites and NoSQL databases
+Text, videos, and images (ans)
+
+Question 4
+Data obtained from an organization’s internal CRM, HR, and workflow applications is classified as:
+Secondary data
+Primary data (ans)
+Third-party data
+Copyright-free data
+
+Question 5
+Which of the provided options offers simple commands to specify what is to be retrieved from a relational database?
+Web Scraping
+API
+SQL (ans)
+RSS Feed
+
