@@ -1,0 +1,33 @@
+Question 1
+What is one of the common measures of Central Tendency? 
+Mean 
+Variance  
+Classification 
+Regression 
+
+Correct
+Mean, or the mathematical average, is one of the common measures of Central Tendency.
+
+
+Question 2
+What technique is used to help identify the nature of the relationship between two variables? 
+Anomaly Detection
+Clustering
+Classification
+Regression
+
+Correct
+Regression is a technique that helps identify the nature of the relationship between two variables, which could be causal or correlational.
+
+
+Question 3
+What Python libraries are commonly used for data mining?  
+NumPy
+twitter
+Tm
+Pandas
+
+Correct
+NumPy is one of the popular Python libraries used for data analysis. 
+Correct
+Pandas is one of the popular Python libraries used for data analysis.
