@@ -1,0 +1,20 @@
+Question 1
+What is one of the common structural transformations used for combining data from one or more tables? 
+Joins (answer)
+Cleaning
+Denormalization
+Normalization 
+
+Question 2
+What tool allows you to discover, cleanse, and transform data with built-in operations?
+Trifacta Wrangler
+OpenRefine
+Watson Studio Refinery (Ans)
+Google DataPrep
+
+Question 3
+What is data called that does not fit within the context of the use case?  
+Irrelevant data (ans)
+ Duplicate data 
+ Missing data 
+ Relevant data
