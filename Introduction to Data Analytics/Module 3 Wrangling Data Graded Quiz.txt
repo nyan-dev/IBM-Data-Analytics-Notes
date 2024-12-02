@@ -1,0 +1,52 @@
+What does a typical data wrangling workflow include? 
+Predicting probabilities 
+Using mathematical techniques to identify correlations in data 
+Validating the quality of the transformed data 
+Recognizing patterns 
+
+Correct
+Validating the quality of transformed data is an essential step in a data wrangling workflow.
+
+---------
+Question 2
+OpenRefine is an open-source tool that allows you to:  
+Use add-ins such as Microsoft Power Query to identify issues and clean data 
+Transform data into a variety of formats such as TSV, CSV, XLS, XML, and JSON 
+Enforces applicable data governance policies automatically 
+Automatically detect schemas, data types, and anomalies 
+
+Correct
+Using OpenRefine, you can transform data into a wide variety of formats such as TSV, CSV, XLS, XML, and JSON.
+
+---------
+Question 3
+What is one of the steps in a typical data cleaning workflow? 
+Establishing relationships between data events  
+Building classification models  
+Clustering data 
+Inspecting data to detect issues and errors 
+
+Correct
+Inspecting data to detect issues and errors is one of the first steps in a typical data cleaning workflow.
+
+---------
+Question 4
+When you’re combining rows of data from multiple source tables into a single table, what kind of data transformation are you performing? 
+Unions 
+Normalization 
+Denormalization 
+Joins 
+
+Correct
+Unions are a common structural transformation used for combining rows of data from multiple source tables.
+
+---------
+Question 5
+When you detect a value in your data set that is vastly different from other observations in the same data set, what would you report that as? 
+Outlier 
+Irrelevant data 
+Syntax error 
+Missing value 
+
+Correct
+Outliers are values in your data set that may be vastly different from other values in the same data field.
