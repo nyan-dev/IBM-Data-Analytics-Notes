@@ -1,1 +1,53 @@
+Question 1
+What is a branch of mathematics dealing with the collection, analysis, interpretation, and presentation of numerical or quantitative data?
+Algebra
+Calculus
+Statistics
+Pie 
 
+Correct
+Statistics is the branch of mathematics that deals with the collection, analysis, interpretation, and presentation of numerical or quantitative data.
+
+2.
+Question 2
+Data Mining is defined as the process of:
+Extracting knowledge from data
+Identifying errors in data 
+Preparing raw data for analysis
+Filtering data based on pre-defined criteria
+
+Correct
+Data Mining is the process of extracting knowledge from data.
+
+3.
+Question 3
+What type of data mining operations was R specifically built to handle? 
+Sorting 
+Classification of data 
+Calculating mean, median, and mode 
+Filtering 
+
+Correct
+R has libraries explicitly built for data mining operations such as classification of data.
+
+4.
+Question 4
+When you’re calculating the middle value of a data field in a data set, what are you really calculating? 
+Mean
+Mode
+Average
+Median 
+
+Correct
+Median is the middle value of a data field in a data set.
+
+5.
+Question 5
+What is the general tendency of a set of data to change over time called?
+Anomaly 
+Pattern 
+Variation 
+Trend 
+
+Correct
+A trend is the general tendency of a set of data to change over time.
