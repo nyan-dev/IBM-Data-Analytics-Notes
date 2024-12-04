@@ -1,0 +1,14 @@
+Question 1
+On the Data Analyst Specialist path, you could be starting your career as an Associate or Junior Data Analyst and working your way up to a Principal Analyst role. What are some of the factors that influence your growth on this path? 
+
+The experience and exposure you gain in the different areas within Data Analysis 
+A Master’s degree in either Mathematics or Statistics
+Specialization in at least one domain area
+At least five to six years of experience at each level
+
+Correct
+The amount of experience you gain and exposure to different areas within Data Analysis qualifies you for the next role on this path.
+
+Question 2
+Skills such as problem-solving, communication, and storytelling are critical to the role of a Data Analyst. And like most soft skills, you’re either good at them, or you’re not; these skills cannot be acquired over time. 
+False
