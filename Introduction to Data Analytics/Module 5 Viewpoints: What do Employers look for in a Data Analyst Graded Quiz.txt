@@ -1,0 +1,50 @@
+Question 1
+Which of the following statement describes Data Analyst Specialist Roles? 
+Analysts who can work with Machine and Deep Learning models 
+Analysts who specialize in specific fields like HR, Sales, and Finance
+Analysts who specialize in data lakes and data repositories 
+Analysts who advance technical, statistical, and analytical skills, over time, to expert levels 
+
+Correct
+In the Data Analyst Specialist roles, you would be required to advance these skills from beginner to expert level over time.
+
+
+Question 2
+A Principal Data Analyst is responsible for: 
+Establishing processes in the team  
+Having expertise in all tools and technologies used in data analytics   
+Being a domain specialist 
+Being well-versed in Big Data processing tools 
+
+Correct
+A Principal Data Analyst would typically be responsible for establishing processes in their team.
+
+
+Question 3
+Job roles such as Project Managers, Marketing Managers, and HR Managers, can achieve greater efficiency and effectiveness in their current roles by acquiring data analysis skills, and are therefore known as analytics-enabled job roles.
+True
+False
+
+Correct
+These roles can be classified as analytics-enabled job roles.
+
+
+Question 4
+Which of these is essential for getting started and growing as a Data Analyst?
+Domain specialization
+Love for numbers, a curious mind, and openness to learn 
+A degree in Statistics 
+A degree in Computer Science 
+
+Correct
+These traits are essential for a Data Analyst role.
+
+Question 5
+What Data Analysis roles may be best suited for people with little or no technical training? 
+Data Scientist   
+Big Data Engineer 
+Data Analyst   
+Functional Analyst  
+
+Correct
+A Functional Analyst role is best suited for people with little or no technical training.
