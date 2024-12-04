@@ -1,0 +1,51 @@
+Question 1
+"A presentation is not a data dump”. What is the one thing you would do to ensure your presentation is not a data dump?
+Not include facts and figures in the presentation
+Include only that information as is needed to address the business problem
+Deliver the findings in a single slide
+Not use visuals in the presentation
+
+Correct
+By only including information that is relevant to the use case, you ensure that your presentation does not become a data dump.
+
+2.
+Question 2
+What is the discipline of communicating information through the use of visual elements?  
+Data profiling   
+Data regression 
+Data type conversion 
+Data visualization 
+
+Correct
+Data visualization is the discipline of communicating information using visual elements.
+
+3.
+Question 3
+Matplotlib is a widely used Python data visualization library.
+True
+False
+
+Correct
+Matplotlib is a Python library that is used for Data Visualization.
+
+4.
+Question 4
+What is the goal of Data Visualization? 
+Make information easy to comprehend, interpret, and retain 
+Make the presentation look attractive 
+Establish trust in the audience 
+Make collaboration easy 
+
+Correct
+The goal of Data Visualization is to make information easy to comprehend, interpret, and retain.
+
+5.
+Question 5
+What can you do to help your audience trust you?
+Share your data sources, hypotheses, and validations 
+Hand them copies of the data sets you have used for analysis 
+Share the detailed documentation of every aspect of your project so they can verify all details 
+Make your presentation look good 
+
+Correct
+Sharing your data sources, hypotheses, and validations go a long way in establishing trust in your audience.
