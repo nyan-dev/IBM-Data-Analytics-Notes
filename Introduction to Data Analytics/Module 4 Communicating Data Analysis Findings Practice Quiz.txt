@@ -1,0 +1,15 @@
+Question 1
+Data visualizations such as graphs and charts are a great way to bring data to life. 
+True
+
+
+Question 2
+You can use dashboards to present operational data such as daily progress data, as well as analytical data, such as the overall health of a business function.  
+True
+
+Question 3
+What spreadsheet software is preferred when multiple users need to collaborate?
+Microsoft Excel 
+Tableau
+R-Studio
+Google Sheets (Ans)
