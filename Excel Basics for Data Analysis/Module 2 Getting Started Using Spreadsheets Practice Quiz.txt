@@ -1,0 +1,73 @@
+Question 1
+Which of the following is a valid way of editing existing data in a cell? Select all that apply.
+Press CTRL+N 
+Press F2 
+
+Correct
+This is a valid way of editing the existing data in a cell.
+
+Select the cell you want to edit and press Enter 
+Select the cell you want to edit and then click the formula bar 
+
+Correct
+This is a valid way of editing the existing data in a cell.
+
+
+Question 2
+In Excel for the web, how can you format data in cells to use a currency? Select all that apply.
+Select "Format cells" from the Format drop-down list in the Cells group 
+Select the data and click the Decrease Decimal button 
+Right-click on a cell and select Number Format 
+
+Correct
+This will enable you to format your data as currency.
+
+Select "More Number Formats" from the Number Format drop-down list in the Number group
+
+Correct
+This will enable you to format your data as currency.
+
+
+Question 3
+What is one of the key components of a typical formula?
+Reference
+Percentage
+Calculation
+Division
+
+Correct
+A reference to cells, ranges, or named ranges is a key component of a formula in Excel. References indicate where the formula should retrieve data or perform calculations.
+
+
+
+Question 4
+What happens when you use the median calculation but select an even number of values in a range?
+Divides the selected range in half 
+Returns both of the middle values of the selected range
+Returns one of the middle values of the selected range
+Returns the middle figure between the two middle values in the selected range
+
+Correct
+The median is a midway point between a range of values, so if you select an odd number of values, it uses the middle value, but when you select an even number of values, the median is the midway point between the two middle values.
+
+
+Question 5
+What are Excel cell references by default?
+Absolute references
+Cell references must be assigned
+Mixed references
+Relative references
+
+Correct
+Relative references are the default in Excel. When a formula containing relative references is copied to other cells, the references adjust based on the new location.
+
+
+Question 6
+When creating formulas, what is a mixed reference?
+Both cell references are manually assigned
+Both cell references are either absolute or relative
+One cell reference is absolute; the other must be manually assigned
+One cell reference is absolute, the other one is relative 
+
+Correct
+A mixed reference in Excel is where one part of the reference (either row or column) is fixed (absolute) while the other part can change as the formula is copied.
