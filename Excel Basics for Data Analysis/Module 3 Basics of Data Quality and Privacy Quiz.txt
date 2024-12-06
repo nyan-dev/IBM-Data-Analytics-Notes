@@ -1,1 +1,32 @@
 
+
+-------------------------------------------------
+🎓 Other Practice Quiz Questions
+What are the five traits of quality data?
+ a) Accuracy, Completeness, Reliability, Relevance, Timeliness (Ans)
+ b) Speed, Accuracy, Completeness, Relevance, Timeliness
+ c) Accuracy, Completeness, Reliability, Relevance, Validity
+
+
+Why is accuracy important in data analysis?
+ a) It makes the data look good 
+ b) It ensures sound decision-making (ans)
+ c) It allows for faster calculations
+
+
+What does completeness refer to in data quality?
+ a) Data being free from errors
+ b) All necessary data being present (ans)
+ c) Data being updated regularly
+
+
+How can you ensure data reliability?
+ a) By collecting data from multiple sources
+ b) ensuring that the data is consistently updated and verified (ans)
+ c) By ignoring outdated records
+
+
+What is the consequence of using outdated data?
+ a) It can lead to better decisions
+ b) It can result in poor decision-making  (ans)
+ c) It has no impact on analysis
