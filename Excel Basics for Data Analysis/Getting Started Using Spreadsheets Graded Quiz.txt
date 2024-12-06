@@ -1,0 +1,74 @@
+Question 1
+How can you zoom to a specific area of data in an Excel spreadsheet?
+Use the 100% button
+Use the Zoom button
+Use the Zoom to Selection button
+Use the Freeze Frames option
+Correct
+The Zoom to Selection button allows you to automatically adjust the zoom level to fit the selected range of cells, making it easier to view specific data.
+
+
+2.
+Question 2
+What do you use the AutoFill feature for?
+Move or copy data between spreadsheets
+Automatically fill cells with data in a sequential series or pattern
+Paste data in a cell with the same column width settings
+Drag selected data to another place
+Correct
+AutoFill is used to fill cells automatically for you when the data is identified to be in a sequential series or pattern.
+
+
+3.
+Question 3
+What character do you type first when you want to start writing a formula?
+Plus sign '+'
+Division sign '/'
+Equal sign '='
+Percentage sign '%'
+Correct
+You type the '=' character first when you want to start writing a formula.
+
+
+4.
+Question 4
+What is one of the functions found in the AutoSum drop-down list?
+Accounting
+Number
+Count Numbers
+General
+Correct
+Count Numbers is one of the functions found in the AutoSum drop-down list, The other options are Sum, Average, Max, and Min.
+
+
+5.
+Question 5
+In Excel Desktop, what is one of the function categories on the Formulas tab in the Function Library group?
+Functional
+Analytical
+Lookup & Reference
+Medical
+Correct
+Lookup & Reference is one of the function categories on the Formulas tab in the Function Library group.
+
+
+6.
+Question 6
+How do you make a cell reference absolute in a formula?
+Put a percentage sign (%) behind the column or row identifiers in the formula
+Put a dollar sign ($) in front of the column and/or row identifiers in the formula
+Put a plus sign (+) between the column and row identifiers in the formula
+Put an asterisk (*) in front of the column or behind the row identifiers in the formula
+Correct
+Putting a dollar sign ($) in front of the column and/or row identifiers is how you make a cell reference absolute in a formula.
+
+
+7.
+Question 7
+Formula errors in Excel are preceded by a hash symbol (#). What does it mean when multiple hash symbols exist in a cell?
+Column isn't wide enough or it contains negative date or time values
+Formula contains multiple errors
+Formula contains unrecognized text
+Formula is missing a cell reference
+Correct
+When you see multiple hash symbols in a cell, it means that either the column isn't wide enough to display the full data or it contains negative date or time values.
