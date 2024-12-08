@@ -1,0 +1,57 @@
+Module 3 Basics of Data Quality and Privacy Practice Quiz 
+
+Which of the following methods are the easiest ways to locate and remove duplicated rows in Excel? Select all that apply.
+Select all data and click the Remove Duplicates button
+Correct
+By using the Remove Duplicates button, you can automatically remove duplicate entries across your dataset with just a few clicks, although it doesn’t allow for reviewing duplicates before deletion.
+Search for the first character in rows
+Select a column and choose Conditional Formatting > Highlight Cells Rules > Duplicate Values
+Correct
+This method allows you to visually identify duplicates by highlighting them, which provides an additional level of data security by letting you review duplicates before removing them. It’s an easy and effective way to locate duplicates
+Use the HLOOKUP function
+
+
+2.
+Question 2
+Which of the following are the essential traits of quality data? Select all that apply.
+Timeliness
+Correct
+Timeliness is one of the five traits, stressing that data must be up-to-date and readily accessible to be useful for decision-making.
+Accuracy
+Correct
+Accuracy is a crucial trait of quality data. It emphasizes that data must be accurate to ensure reliable analysis.
+Completeness
+Correct
+Completeness is an essential trait of quality data. The importance of having all necessary information to avoid incomplete data sets.
+Scalability
+
+
+3.
+Question 3
+Why is it important to ensure the reliability of data?
+To make sure all required data is readily available for analysis.
+To ensure that data is relevant to the project needs.
+To avoid basing decisions on outdated or incorrect information.
+To ensure that the data is free from errors and is accurate.
+Correct
+The data’s reliability can be trusted, and the data sources consistently provide accurate, updated information.
+
+
+4.
+Question 4
+Which of the following steps is included in the process for importing data from a text file using the Text Import Wizard in Excel? Select all that apply.
+Indicate whether your data has headers. (Correct)
+Select the delimiter that separates the data fields.  (Correct)
+Choose the file format you want to export the data to.
+Set the data format for each column. (Correct)
+
+
+5.
+Question 5
+What is the primary responsibility of a company when it comes to data privacy?
+To anonymize all data to prevent any potential breaches.
+To ensure that customer data is kept safe and complies with privacy regulations.
+To share collected data with third-party vendors for better service.
+To collect as much data as possible for comprehensive analysis.
+Correct
+The primary responsibility of a company is to protect customer data and ensure compliance with various privacy laws and regulations, such as GDPR, LGPD, and CCPA.
