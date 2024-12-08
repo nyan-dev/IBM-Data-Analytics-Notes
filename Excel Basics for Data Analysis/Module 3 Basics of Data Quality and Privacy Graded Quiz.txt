@@ -1,0 +1,28 @@
+Question 1
+Which data quality trait can be summarized by asking if the data is really necessary?
+Relevance
+Timeliness
+Reliability
+Completeness
+Correct
+The Relevance data quality trait can be summarized by asking if the data is really necessary.
+
+
+Question 2
+Which data quality trait refers to the availability and accessibility of the data?
+Completeness
+Accuracy
+Timeliness
+Reliability
+Correct
+The Timeliness data quality trait refers to the availability and accessibility of the data.
+
+
+Question 3
+After importing a text file into Excel, you find some columns aren't showing all data. How can you fix all column widths at the same time?
+Click the Format button
+Drag a divider across
+Select all columns and double-click one of the selected column dividers (Correct)
+Shorten the text so it fits
+
+
